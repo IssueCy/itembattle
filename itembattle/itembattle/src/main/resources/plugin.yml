@@ -1,0 +1,6 @@
+name: itembattle
+version: '${project.version}'
+main: de.merix.itembattle.Itembattle
+api-version: '1.20'
+commands:
+  start:
